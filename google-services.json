@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "452279946715",
+    "firebase_url": "https://gupshupsadiq-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gupshupsadiq",
+    "storage_bucket": "gupshupsadiq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452279946715:android:4072dbe058c30e5b3d6bfe",
+        "android_client_info": {
+          "package_name": "com.sadiq.gupshup.gupshup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452279946715-bcf19gubhm65b8vdvcd22j2gqncojqmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL-gcIySuT0iVRUqzGJLMJvn_2CimPQX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452279946715-bcf19gubhm65b8vdvcd22j2gqncojqmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
